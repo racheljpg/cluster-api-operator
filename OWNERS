@@ -5,15 +5,21 @@ approvers:
 - JoelSpeed
 - RadekManak
 - damdo
+- jnpacker
+- marek-veber
+- mdbooth
 - nrb
+- serngawy
+- theobarberbany
 reviewers:
-- JoelSpeed
 - RadekManak
 - damdo
-- elmiko
+- jnpacker
+- marek-veber
+- mdbooth
 - nrb
-- odvarkadaniel
 - racheljpg
-- vincepri
+- serngawy
+- theobarberbany
 component: Cloud Compute
-subcomponent: Other Provider
+subcomponent: Cluster API Providers
